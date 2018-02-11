@@ -3,6 +3,8 @@ This data set has 40917 rows that include a US Postal code + Geo info + TZ info.
 
 This data was created via combining a few open source data sets.
 
+This data set does not include APO/FPO zips 
+
 * OpenDataSoft
 https://data.opendatasoft.com/explore/dataset/geonames-all-cities-with-a-population-1000%40public/table/?disjunctive.country&refine.country=United+States&q=Portland
 
