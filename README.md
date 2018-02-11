@@ -2,7 +2,7 @@
 This data set has 40917 rows that includes: 
 * US Postal
 * City, State
-* Geo Point, (lat,lgn) + encoded geometry
+* Geo Point, (lat,lng) + encoded geometry
 * Tz Info style timezone (ie America/Denver) 
 
 
