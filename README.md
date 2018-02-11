@@ -1,9 +1,20 @@
 # US Postal Codes with TZinfo Style Timezone + Geo info
 This data set has 40917 rows that include a US Postal code + Geo info + TZ info.
 
+
+This data set does not include:
+
+* AA Armed Forces (the) Americas
+* AE Armed Forces Europe
+* AP Armed Forces Pacific
+* APO Army Post Office
+* FPO Fleet Post Office
+* DPO Diplomatic Post Office
+
+---
+
 This data was created via combining a few open source data sets.
 
-This data set does not include APO/FPO zips 
 
 * OpenDataSoft
 https://data.opendatasoft.com/explore/dataset/geonames-all-cities-with-a-population-1000%40public/table/?disjunctive.country&refine.country=United+States&q=Portland
