@@ -1,5 +1,9 @@
 # US Postal Codes with TZinfo Style Timezone + Geo info
-This data set has 40917 rows that include a US Postal code + Geo info + TZ info.
+This data set has 40917 rows that includes: 
+* US Postal
+* City, State
+* Geo Point, (lat,lgn) + encoded geometry
+* Tz Info style timezone (ie America/Denver) 
 
 
 This data set does not include:
